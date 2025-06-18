@@ -1,0 +1,39 @@
+{
+	"accessMode": {
+		"title": "Hiển thị quyền truy cập backend",
+		"description": "Trang hiện tại chỉ hỗ trợ lấy quyền hiển thị thông qua giao diện backend"
+	},
+	"adminVisible": {
+		"title": "Hiển thị Admin",
+		"description": "Trang hiện tại chỉ hiển thị cho tài khoản Admin"
+	},
+	"commonVisible": {
+		"title": "Hiển thị thông thường",
+		"description": "Trang hiện tại chỉ hiển thị cho tài khoản thông thường"
+	},
+	"pageControl": {
+		"alertMessage": "Demo quyền truy cập trang frontend",
+		"alertDescription": "Chuyển đổi giữa các tài khoản khác nhau và quan sát các thay đổi trong menu con 'Demo quyền' ở bên trái.",
+		"cardTitle": "Chế độ quyền",
+		"frontendControl": "Kiểm soát quyền frontend",
+		"backendControl": "Kiểm soát quyền backend",
+		"switchToFrontend": "Chuyển sang chế độ quyền frontend",
+		"switchToBackend": "Chuyển sang chế độ quyền backend",
+		"switchAdmin": "Chuyển sang người dùng Admin",
+		"switchCommon": "Chuyển sang người dùng thông thường",
+		"currentPermissionMode": "Chế độ quyền hiện tại:",
+		"accountSwitching": "Chuyển đổi tài khoản",
+		"warningMessage": "Nếu enableFrontendAceess và enableBackendAceess bằng nhau, không được phép chuyển đổi chế độ định tuyến."
+	},
+	"buttonControl": {
+		"alertMessage": "Demo quyền truy cập nút frontend",
+		"alertDescription": "Chuyển đổi giữa các tài khoản khác nhau để quan sát thay đổi nút.",
+		"currentRole": "Vai trò hiện tại",
+		"switchAdmin": "Chuyển sang người dùng Admin",
+		"switchCommon": "Chuyển sang người dùng thông thường",
+		"componentControlPermissionCodes": "Kiểm soát dựa trên thành phần - Mã quyền",
+		"componentControlRoles": "Kiểm soát dựa trên thành phần - Vai trò",
+		"functionControlPermissionCodes": "Kiểm soát dựa trên chức năng - Mã quyền",
+		"functionControlRoles": "Kiểm soát dựa trên chức năng - Vai trò"
+	}
+}
