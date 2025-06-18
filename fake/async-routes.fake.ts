@@ -282,12 +282,12 @@ export default defineFakeRoute([
 			return resultSuccess(
 				[
 					homeRouter,
-					accessRouter,
-					aboutRouter,
-					systemManagementRouter,
-					outsideRouter,
-					personalCenterRouter,
-					routeNestRouter,
+					// accessRouter,
+					// aboutRouter,
+					// systemManagementRouter,
+					// outsideRouter,
+					// personalCenterRouter,
+					// routeNestRouter,
 				],
 			);
 		},
